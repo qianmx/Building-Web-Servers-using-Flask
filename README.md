@@ -15,7 +15,7 @@ Example:
 
 * Input:
 
-![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/form.png)
+![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/submit_form.png)
 
 * Output:
 
