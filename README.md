@@ -7,6 +7,10 @@ This project aims to build a dynamic website using Flask that displays stock his
 * web scraping corresponding ticker data from Yahoo Finance.
 * redirect and display the ticker stock history data in a website.
 
+**Website Link: http://qianmx.pythonanywhere.com/**
+
+Example: 
+
 Input:
 
 ![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/submit_form.png)
