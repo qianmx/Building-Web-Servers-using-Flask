@@ -10,6 +10,7 @@ This project aims to build a dynamic website using Flask that displays stock his
 Input:
 
 ![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/submit_form.png)
+
 Output:
 
 ![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/output.png)
