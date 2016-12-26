@@ -3,8 +3,9 @@
 
 This project aims to build a dynamic website using Flask that displays stock history in an HTML table. 
 
-* input stock ticker number, e.g. AAPL, TSLA
+* create POST form to take stock ticker number input, e.g. AAPL, TSLA
 * web scraping corresponding ticker data from Yahoo Finance.
+* convert the data into html table format.
 * redirect and display the ticker stock history data in a website.
 * deploy it to a publicly visible website at pythonanywhere.com
 
