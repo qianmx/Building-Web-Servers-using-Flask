@@ -20,4 +20,4 @@ Example:
 
 ![alt tag](https://github.com/qianmx/Building-Web-Servers-using-Flask/blob/master/screenshot/output.png)
 
-_I used free account in pythonanywhere, so the link might expire after March, 2017._  :P
+_I used free account in pythonanywhere, so the link above might expire after March, 2017._  :P
